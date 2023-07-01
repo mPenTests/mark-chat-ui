@@ -20,7 +20,7 @@ function Login() {
           <Form.Control type="password" placeholder="Password" />
         </Form.Group>
         <Button variant="primary" type="submit" className='mt-6 w-full'>
-          Submit
+          Login
         </Button>
       </Form>
     </>   
