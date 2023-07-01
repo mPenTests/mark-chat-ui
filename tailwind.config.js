@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'auth-background': 'url("/src/assets/auth-background.svg")',
+        'auth-background': 'url("https://assets2.lottiefiles.com/packages/lf20_vpsfayvd.json")',
       }
     },
   },
